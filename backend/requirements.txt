@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pypdf
+faiss-cpu
+sentence-transformers
+numpy
+requests
+openai-whisper
