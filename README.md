@@ -41,9 +41,10 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 # Start the FastAPI server
 uvicorn main:app --reload
-
-### 2.Frontend Setup
-
+```
+### 2. Frontend Setup
+```bash
 cd frontend
 npm install
 npm run dev
+```
